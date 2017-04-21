@@ -11,7 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="LXCAPP" target="1.8" />
-      <module name="lxcapp.io-server" target="1.8" />
+      <module name="lxcapp.io-server" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

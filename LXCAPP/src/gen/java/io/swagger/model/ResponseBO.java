@@ -9,7 +9,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * ResponseBO
  */
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaMSF4JServerCodegen", date = "2017-04-18T02:51:42.765Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaMSF4JServerCodegen", date = "2017-04-21T05:52:25.698Z")
 public class ResponseBO   {
   @JsonProperty("CompleteCode")
   private Integer completeCode = null;
@@ -97,7 +97,7 @@ public class ResponseBO   {
 
 
   @Override
-  public boolean equals(java.lang.Object o) {
+  public boolean equals(Object o) {
     if (this == o) {
       return true;
     }
@@ -133,7 +133,7 @@ public class ResponseBO   {
    * Convert the given object to string with each line indented by 4 spaces
    * (except the first line).
    */
-  private String toIndentedString(java.lang.Object o) {
+  private String toIndentedString(Object o) {
     if (o == null) {
       return "null";
     }
